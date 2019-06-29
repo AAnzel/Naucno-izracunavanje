@@ -16,6 +16,6 @@ Master studije
 
 ### Podaci:
 * Slike koje se koriste u projektu su smeštene u direktorijumu **Slike**
-* Rezultatujuće slike nakon primene različitih alata su smeštene u direktorijumu **Reultati**
+* Rezultatujuće slike nakon primene različitih alata su smeštene u direktorijumu **Rezultati**
 * Teorijska pozadina projekta je opisana u [dokumentaciji](Dokumentacija.pdf)
 
